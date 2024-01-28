@@ -27,7 +27,7 @@ You must comppile mlx library separetly. To do so
     cd mlx/
     make
 ```
-It's gives errors when compiles. Ignore them totaly normal. Besides mlx library has memory leaks so I recommend when checking leaks in your code use "system(leaks so_long)". 
+It's gives errors when compiles. Ignore them, it's totaly normal. Besides mlx library has memory leaks so I recommend when checking leaks in your code use "system(leaks so_long)". 
 
 Then you can compile the game
 ```bash
