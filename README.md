@@ -1,11 +1,12 @@
 
-# so_long
+# so_long  
 
+This is game engine-like, a simple graphics project. Uses minilibX as a graphic library. 
 <div align="center">
   <img src=https://github.com/altintoprakali/so_long/blob/main/screenshots/Screenshot.png />
-</div>
+</div> 
 
-This is a game engine-like, simple graphics project. Uses minilibX as a graphic library.  
+Our player is a swimmer whose ship crashes into rocks. In the aftermath of a shipwreck against unforgiving rocks, our protagonist, an adept swimmer, faces a daunting challenge. Scattered in the turbulent waters are vital aid kits crucial for survival. Navigating treacherous currents and encountering marine obstacles, the swimmer dives into a race against time, he must skillfully collecting each aid kit. The distant island on the horizon becomes a beacon of hope, urging the swimmer to persevere through exhaustion. With crashing waves and the sun setting, the narrative unfolds in a suspenseful tale of resilience. The swimmer's journey is a gripping adventure, as they strive to collect every aid kit and return to the safety of the island, battling against the elements and the unknown depths of the open sea..
   
   
 ## Game rules  
