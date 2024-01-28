@@ -38,7 +38,7 @@ or
     cd ..
     make bonus
 ```
-Three options for map. It's same for bonus and mandatory part. One of them is for error checking so it won't work
+Three options for map in my project. It's same for bonus and mandatory part. One of them is for error checking so it won't work or you can use your own map.
 ```bash
     ./so_long maps/map.ber
 ```
